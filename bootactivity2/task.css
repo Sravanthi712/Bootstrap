@@ -1,0 +1,110 @@
+.col-md-3{
+	border: 5px solid white;
+}
+.a{
+	float: left;
+}
+.b{
+	float: right;
+}
+#c{
+	font-size: 50px;
+	color: blue;
+	padding-left: 40px;
+	padding-top: 5px;
+}
+#d{
+	font-size: 50px;
+	color: orange;
+	padding-left: 40px;
+	padding-top: 5px;
+}
+#e{
+	font-size: 50px;
+	color: green;
+	padding-left: 40px;
+	padding-top: 5px;
+}
+#f{
+	font-size: 50px;
+	color: red;
+	padding-left: 40px;
+	padding-top: 5px;
+}
+#g{
+	font-size: 50px;
+	color: orange;
+	padding-left: 40px;
+	padding-top: 5px;
+}
+#h{
+	font-size: 50px;
+	color: skyblue;
+	padding-left: 40px;
+	padding-top: 5px;
+}
+#i{
+	padding-right: 40px;
+	padding-top: 5px;
+	color:skyblue;
+	font-size: 50px;
+}
+.abc{
+	height: 5px;
+	width: 100%;
+	background-color:gray;
+}
+.bca{
+	height: 5px;
+	width: 70%;
+	float: left;
+	background-color: blue;
+}
+.cab{
+	float: right;
+}
+#j{
+	padding-right: 40px;
+	padding-top: 5px;
+	color:green;
+	font-size: 50px;
+}
+.xyz{
+	height: 5px;
+	width: 60%;
+	float: left;
+	background-color:green;
+}
+.zxy{
+	float: right;
+}
+#k{
+	font-size: 50px;
+	color: orange;
+	padding-left: 40px;
+	padding-top: 5px;
+}
+.lmn{
+	height: 5px;
+	width: 40%;
+	float: left;
+	background-color:orange;
+}
+.mnl{
+	float: right;
+}
+#l{
+	font-size: 50px;
+	color: orange;
+	padding-left: 40px;
+	padding-top: 5px;
+}
+.sra{
+	height: 5px;
+	width: 50%;
+	float: left;
+	background-color:red;
+}
+.ars{
+	float: right;
+}
